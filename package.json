@@ -1,7 +1,7 @@
 {
   "name": "@akijoey/promise",
   "version": "0.0.1",
-  "description": "Reusable javascript utils.",
+  "description": "Promises/A+ implementation.",
   "main": "index.js",
   "files": [
     "index.js",
