@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - stable
+deploy:
+  provider: npm
+  email: akijoey@akijoey.com
+  api_key: '$NPM_TOKEN'
+  on:
+    branches: master
+  skip_cleanup: true
