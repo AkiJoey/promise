@@ -13,7 +13,7 @@ Promises/A+ implementation.
 ## Usage
 
 ```javascript
-require('@akijoey/promise')
+const Promise = require('@akijoey/promise')
 ```
 
 ## Test
